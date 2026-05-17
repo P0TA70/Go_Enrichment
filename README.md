@@ -5,4 +5,6 @@ All files obtained during class practicals
 
 **human_gene_annotation.bed**: bed file consisting of filtered data 
 
-**extended.bed**: obtained by running bedtools slop on previous file, to extend regions by 500bp according to + or -
+**extended.bed**: obtained by running bedtools slop on previous file (w/ hg38.chrom.sizes), to extend regions by 500bp according to + or -
+
+**promoterSeq.7z**: obtained by running bedtools getfasta on previous file (w/ hg38.fa), to get all the sequences for us to search our motif in
