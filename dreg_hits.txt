@@ -1,0 +1,636 @@
+########################################
+# Program: dreg
+# Rundate: Mon 18 May 2026 02:44:43
+# Commandline: dreg
+#    -sequence promoterSeq.fa
+#    -pattern GCGC..GCGC
+#    -outfile dreg_hits.txt
+# Report_format: seqtable
+# Report_file: dreg_hits.txt
+########################################
+
+#=======================================
+#
+# Sequence: EMBOSS_001     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    466     475       + regex:GCGC..GCGC GCGCCTGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_007     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    418     427       + regex:GCGC..GCGC GCGCCTGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_052     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    369     378       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_053     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    350     359       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_054     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    348     357       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_084     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    376     385       + regex:GCGC..GCGC GCGCTGGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_093     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    391     400       + regex:GCGC..GCGC GCGCGCGCGC
+    393     402       + regex:GCGC..GCGC GCGCGCGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_094     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    391     400       + regex:GCGC..GCGC GCGCGCGCGC
+    393     402       + regex:GCGC..GCGC GCGCGCGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_095     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    241     250       + regex:GCGC..GCGC GCGCCTGCGC
+    260     269       + regex:GCGC..GCGC GCGCGCGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_096     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    225     234       + regex:GCGC..GCGC GCGCCTGCGC
+    244     253       + regex:GCGC..GCGC GCGCGCGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_210     from: 1   to: 501
+# HitCount: 3
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    101     110       + regex:GCGC..GCGC gcgcacgcgc
+    215     224       + regex:GCGC..GCGC GCGCACGCGC
+    221     230       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_322     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    328     337       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_436     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     15      24       + regex:GCGC..GCGC GCGCGAGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_798     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     65      74       + regex:GCGC..GCGC GCGCCCGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_844     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+      8      17       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_845     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+      2      11       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_846     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     83      92       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1040     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    275     284       + regex:GCGC..GCGC gcgcgtgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1108     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    453     462       + regex:GCGC..GCGC gcgcttgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1213     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    459     468       + regex:GCGC..GCGC gcgcacgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1214     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    105     114       + regex:GCGC..GCGC gcgcacgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1215     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    134     143       + regex:GCGC..GCGC gcgcacgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1238     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    278     287       + regex:GCGC..GCGC gcgcgtgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1239     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    105     114       + regex:GCGC..GCGC gcgcacgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1254     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    256     265       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1255     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    299     308       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1256     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    406     415       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1259     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    413     422       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1271     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    273     282       + regex:GCGC..GCGC gcgcgtgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1299     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     91     100       + regex:GCGC..GCGC gcgcacgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1325     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    324     333       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1326     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    316     325       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1327     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    282     291       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1337     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     51      60       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1339     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     52      61       + regex:GCGC..GCGC GCGCACGCGC
+    119     128       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1341     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     71      80       + regex:GCGC..GCGC GCGCACGCGC
+    138     147       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1344     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     71      80       + regex:GCGC..GCGC GCGCACGCGC
+    138     147       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1345     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     14      23       + regex:GCGC..GCGC GCGCATGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1353     from: 1   to: 501
+# HitCount: 2
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+    429     438       + regex:GCGC..GCGC GCGCGGGCGC
+    435     444       + regex:GCGC..GCGC GCGCAGGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1490     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     33      42       + regex:GCGC..GCGC gcgcgcgcgc
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1666     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     58      67       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1667     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     51      60       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1668     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+     15      24       + regex:GCGC..GCGC GCGCACGCGC
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: EMBOSS_1669     from: 1   to: 501
+# HitCount: 1
+#
+# Pattern: GCGC..GCGC
+#
+#=======================================
+
+  Start     End  Strand Pattern          Sequence
+      5      14       + regex:GCGC..GCGC GCGCACGCGC
+
+#-----
